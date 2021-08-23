@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlurlDemo.ApiApp", "FlurlDemo.ApiApp\FlurlDemo.ApiApp.csproj", "{0F54EE0F-6D01-482E-B17F-6C2B966C1B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlurlDemo.ApiApp.IntegrationTests", "FlurlDemo.ApiApp.IntegrationTests\FlurlDemo.ApiApp.IntegrationTests.csproj", "{34FE4EF9-E100-4A5E-B892-2E279DA81024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F54EE0F-6D01-482E-B17F-6C2B966C1B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F54EE0F-6D01-482E-B17F-6C2B966C1B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F54EE0F-6D01-482E-B17F-6C2B966C1B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F54EE0F-6D01-482E-B17F-6C2B966C1B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FE4EF9-E100-4A5E-B892-2E279DA81024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FE4EF9-E100-4A5E-B892-2E279DA81024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FE4EF9-E100-4A5E-B892-2E279DA81024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FE4EF9-E100-4A5E-B892-2E279DA81024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7655614-C1DF-4AD0-8133-C9FB58600CCD}
+	EndGlobalSection
+EndGlobal
